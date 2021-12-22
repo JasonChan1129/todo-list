@@ -1,0 +1,12 @@
+.todo-list {
+	height: auto;
+	min-height: 30vh;
+	width: 90%;
+	max-width: 375px;
+	/* padding: 3rem 2rem; */
+	overflow: hidden;
+}
+
+.selected {
+	background-color: #4f005f;
+}

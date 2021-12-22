@@ -1,0 +1,10 @@
+.list {
+	margin: 1rem 0;
+	color: rgb(129, 129, 129);
+}
+
+.list li {
+	padding: 0.5rem 1.5rem;
+	text-decoration: line-through;
+	font-size: 1.25rem;
+}

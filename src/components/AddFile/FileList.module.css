@@ -1,0 +1,25 @@
+.file-list {
+	list-style-type: none;
+	padding: 0;
+	margin: 1rem 0;
+}
+
+.file-list li {
+	padding: 0.5rem;
+	display: flex;
+	justify-content: space-between;
+}
+
+.items {
+	background-color: transparent;
+	border: none;
+	cursor: pointer;
+	text-decoration: underline;
+	font-size: 1.25rem;
+}
+
+.delete-button {
+	all: initial;
+	cursor: pointer;
+	font-size: 1.2rem;
+}

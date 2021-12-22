@@ -1,0 +1,14 @@
+.add-file {
+	height: auto;
+	min-height: 30vh;
+	width: 90%;
+	max-width: 375px;
+	padding: 1.5rem 2rem;
+}
+
+.header {
+	text-align: center;
+	font-family: Bradley Hand, cursive;
+	font-size: 2.25rem;
+	margin: 1rem;
+}
