@@ -1,4 +1,3 @@
-import Button from '../UI/Button';
 import styles from './List.module.css';
 
 function List(props) {
